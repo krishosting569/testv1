@@ -10,7 +10,7 @@
         "plugins": "plugins"
     },
     "scripts": {
-        "start": "node --trace-warnings index.js"
+        "start": "index.js"
     },
     "keywords": [
         "termux-whatsapp-bot",
